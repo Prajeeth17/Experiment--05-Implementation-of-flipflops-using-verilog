@@ -201,7 +201,7 @@ endmodule
 
 ### D FLIP FLOP:
 
-![](/ttd.png)
+![](/dld.png)
 
 ## TIMING DIGRAMS FOR FLIP FLOPS :
 
